@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="driver_images">
+
+        <item>@drawable/alonso</item>
+        <item>@drawable/hamilton</item>
+        <item>@drawable/verstappen</item>
+        <item>@drawable/ricciardo</item>
+        <item>@drawable/sainz</item>
+        <item>@drawable/leclerc</item>
+        <item>@drawable/perez</item>
+
+    </array>
+
+</resources>
